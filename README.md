@@ -7,6 +7,10 @@ All templates, prompts, and starter files referenced in **5 AI Workflows You Can
 
 These files can be used in Claude Cowork to personalize the way that Cowork outputs text back to you. All of these files are cobbled together from what we've found online and tested internally at Savvy.
 
+## How to Download
+
+Click the green **"Code"** button at the top of this page, then **"Download ZIP."** Unzip the folder and you'll have all the template files ready to use. If you copy text directly from the GitHub page, you'll lose the markdown formatting.
+
 ## Remember
 
 When copying these files into Claude, click the **"Raw"** button on the top right of each file on this page. You must copy the raw version in to preserve the Markdown formatting.
