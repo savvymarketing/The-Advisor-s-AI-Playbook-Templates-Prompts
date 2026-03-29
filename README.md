@@ -1,6 +1,4 @@
 # The-Advisor-s-AI-Playbook-Templates-Prompts
-# The Advisor's AI Playbook: Templates & Prompts
-
 All templates, prompts, and starter files referenced in **5 AI Workflows You Can Actually Use This Week** by Savvy Wealth.
 
 ## Context
